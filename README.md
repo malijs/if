@@ -4,8 +4,8 @@ Conditionally add [Mali](https://github.com/malijs/mali) middleware.
 
 Opposite of [mali-unless](https://github.com/malijs/unless).
 
-[![npm version](https://img.shields.io/npm/v/mali-if.svg?style=flat-square)](https://www.npmjs.com/package/mali-if)
-[![build status](https://img.shields.io/travis/malijs/if/master.svg?style=flat-square)](https://travis-ci.org/malijs/if)
+[![npm version](https://img.shields.io/npm/v/mali-iff.svg?style=flat-square)](https://www.npmjs.com/package/mali-iff)
+[![build status](https://img.shields.io/travis/malijs/iff/master.svg?style=flat-square)](https://travis-ci.org/malijs/iff)
 
 ## Installation
 
@@ -17,9 +17,9 @@ npm install mali-iff
 
 ## API
 
-<a name="module_mali-if"></a>
+<a name="module_mali-iff"></a>
 
-### mali-if ⇒ <code>function</code>
+### mali-iff ⇒ <code>function</code>
 Mali if middleware. Attach to any middleware and configure it to permit/pervent the
 middleware in question to be executed.
 
