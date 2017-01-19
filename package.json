@@ -1,11 +1,11 @@
 {
-  "name": "mali-if",
-  "version": "0.1.0",
+  "name": "mali-iff",
+  "version": "0.0.0",
   "description": "Conditionally add Mali middleware",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/malijs/if.git"
+    "url": "git+https://github.com/malijs/iff.git"
   },
   "author": {
     "name": "Bojan D.",
@@ -13,9 +13,9 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/malijs/if/issues"
+    "url": "https://github.com/malijs/iff/issues"
   },
-  "homepage": "https://github.com/malijs/if",
+  "homepage": "https://github.com/malijs/iff",
   "keywords": [
     "mali",
     "grpc",

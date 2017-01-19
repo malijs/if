@@ -3,7 +3,7 @@ const conditionTest = require('mali-condition-test')
 /**
  * Mali if middleware. Attach to any middleware and configure it to permit/pervent the
  * middleware in question to be executed.
- * @module mali-if
+ * @module mali-iff
  *
  * @param {Object|String|RegExp|Function} options
  *        - If <code>string</code> and one of <code>Mali Call Types</code> do middleware
