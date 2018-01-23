@@ -1,5 +1,7 @@
 # mali-iff
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/malijs/iff.svg)](https://greenkeeper.io/)
+
 Conditionally add [Mali](https://github.com/malijs/mali) middleware.
 
 Opposite of [mali-unless](https://github.com/malijs/unless).
