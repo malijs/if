@@ -2,7 +2,7 @@
 
 Conditionally add [Mali](https://github.com/malijs/mali) middleware.
 
-Opposite of [mali-unless](https://github.com/malijs/unless).
+Opposite of [@malijs/unless](https://github.com/malijs/unless).
 
 [![npm version](https://img.shields.io/npm/v/@malijs/iff.svg?style=flat-square)](https://www.npmjs.com/package/@malijs/iff)
 [![build status](https://img.shields.io/travis/malijs/iff/master.svg?style=flat-square)](https://travis-ci.org/malijs/iff)
